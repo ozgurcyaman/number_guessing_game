@@ -1,0 +1,10 @@
+C:\Users\ozgur\OneDrive\Masaüstü\number guessing game\number_guessing_game\number_guessing_game\bin\Debug\number_guessing_game.exe.config
+C:\Users\ozgur\OneDrive\Masaüstü\number guessing game\number_guessing_game\number_guessing_game\bin\Debug\number_guessing_game.exe
+C:\Users\ozgur\OneDrive\Masaüstü\number guessing game\number_guessing_game\number_guessing_game\bin\Debug\number_guessing_game.pdb
+C:\Users\ozgur\OneDrive\Masaüstü\number guessing game\number_guessing_game\number_guessing_game\obj\Debug\number_guessing_game.csprojAssemblyReference.cache
+C:\Users\ozgur\OneDrive\Masaüstü\number guessing game\number_guessing_game\number_guessing_game\obj\Debug\number_guessing_game.Form1.resources
+C:\Users\ozgur\OneDrive\Masaüstü\number guessing game\number_guessing_game\number_guessing_game\obj\Debug\number_guessing_game.Properties.Resources.resources
+C:\Users\ozgur\OneDrive\Masaüstü\number guessing game\number_guessing_game\number_guessing_game\obj\Debug\number_guessing_game.csproj.GenerateResource.cache
+C:\Users\ozgur\OneDrive\Masaüstü\number guessing game\number_guessing_game\number_guessing_game\obj\Debug\number_guessing_game.csproj.CoreCompileInputs.cache
+C:\Users\ozgur\OneDrive\Masaüstü\number guessing game\number_guessing_game\number_guessing_game\obj\Debug\number_guessing_game.exe
+C:\Users\ozgur\OneDrive\Masaüstü\number guessing game\number_guessing_game\number_guessing_game\obj\Debug\number_guessing_game.pdb
